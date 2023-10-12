@@ -1,9 +1,8 @@
-## 💻 Projeto DevLinks
+## 💻 Projeto 01 - Móveis Customizados
 
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Projeto 01 do modulo Introdução ao HTML e CSS - Explore Rocketseat
 <br>
 <br>
-O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 ## 🚀 Tecnologias
 
